@@ -9,6 +9,7 @@ My name is YaeKitsune13, and I am learning programming.
 
 ## 📂 Projects:
 My projects will appear here soon. Stay tuned!
+I making game?... soo hard...  okay glhf), 
 
 ## 📬 Contact:
 If you want to get in touch with me, write to my email: **aepnaonp@gmail.com**.
