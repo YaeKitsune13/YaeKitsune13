@@ -6,6 +6,7 @@ My name is YaeKitsune13, and I am learning programming.
 - **Lua**
 - **C#**
 - **Python**
+- **JavaScript**
 
 ## 📂 Projects:
 My projects will appear here soon. Stay tuned!
