@@ -24,4 +24,4 @@ If you want to get in touch with me, write to my email: **aepnaonp@gmail.com**.
 - My work experience has been more focused on the backend, though recently I have been more interested in frontend.
 - I create small mini-games, as they are a great way to learn new language features or extensions, such as packages in Python.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&langs_count=8)
