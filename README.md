@@ -14,16 +14,3 @@ Student | Developer | Mobile Enthusiast
 - 👯 **Experience**: 2+ years with **Lua** (Roblox Studio). Previously backend-focused, now expanding into frontend and mobile.
 - 🎓 Studying at UKSIVT College.
 
----
-
-<div align="center">
-  
-[![YaeKitsune13's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![YaeKitsune13's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show_icons=true&theme=radical)
-
-</div>
