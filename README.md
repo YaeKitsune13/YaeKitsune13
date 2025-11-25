@@ -14,3 +14,4 @@ Student | Developer | Mobile Enthusiast
 - 👯 **Experience**: 2+ years with **Lua** (Roblox Studio). Previously backend-focused, now expanding into frontend and mobile.
 - 🎓 Studying at UKSIVT College.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact)
