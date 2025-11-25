@@ -1,27 +1,25 @@
-# Hello, I'm YaeKitsune13! 👋
+# Hi there, I'm YaeKitsune13! 👋
 
-My name is YaeKitsune13, and I am learning programming.
+Student | Developer | Mobile Enthusiast
 
-## 🧑‍💻 Tech Stack:
-- **Lua**
-- **C#**
-- **Python**
-- **JavaScript**
+## 🛠️ Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 📂 Projects:
-My projects will appear here soon. Stay tuned!
-I making game?... soo hard...  okay glhf), 
+## 🚀 About Me
+- 🔭 I’m currently focusing on **Mobile Application Development** (Kotlin).
+- 🌱 I’m exploring cross-platform frameworks.
+- 👯 **Experience**: 2+ years with **Lua** (Roblox Studio). Previously backend-focused, now expanding into frontend and mobile.
+- 🎓 Studying at UKSIVT College.
 
-## 📬 Contact:
-If you want to get in touch with me, write to my email: **aepnaonp@gmail.com**.
+---
 
-## 🌱 I'm currently learning:
-- At UKSIVT College, Ufa, Kirova 65.
-- Working on a website and mini-games in Python.
+<div align="center">
 
-## 👯 My experience:
-- I have been programming in Lua for 2 years, specifically in Roblox Studio.
-- My work experience has been more focused on the backend, though recently I have been more interested in frontend.
-- I create small mini-games, as they are a great way to learn new language features or extensions, such as packages in Python.
+[![YaeKitsune13's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
