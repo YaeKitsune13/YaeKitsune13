@@ -1,6 +1,6 @@
 # Hi, I'm YaeKitsune13 👋
 
-Student • Developer • Mobile Enthusiast
+Student • Developer • Mobile Enthusiast 
 
 ---
 
