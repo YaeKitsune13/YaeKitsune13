@@ -21,13 +21,19 @@ Student • Developer • Mobile Enthusiast
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact&theme=radical)
+
+<!-- Основная статистика профиля -->
+![Stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show_icons=true&theme=radical&hide_title=true&cache_seconds=86400)
+
+<!-- ТОП языков -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
 ### 🔥 Streak & Activity
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=YaeKitsune13&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaeKitsune13&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
