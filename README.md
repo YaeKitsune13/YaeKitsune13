@@ -1,5 +1,5 @@
 ---
-
+![YaeKitsune typing](zen_ZBPWBle5x5.gif)
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
