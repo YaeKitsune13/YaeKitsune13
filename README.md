@@ -22,12 +22,7 @@ Student • Developer • Mobile Enthusiast
 
 ### 📊 GitHub Stats
 
-<!-- Основная статистика профиля -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show_icons=true&theme=radical)
-
-<!-- ТОП языков -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ### 🔥 Streak & Activity
