@@ -8,7 +8,7 @@
 
 ## 🔥 Основной стек
 
-**Go • Rust • Vue**
+**Go • Rust • Vue • TypeScript**
 
 ---
 
@@ -19,11 +19,7 @@
 - Python  
 - C#  
 - Luau (Roblox Studio)  
-- TypeScript  
-- JavaScript  
-
-> Широкий опыт даёт гибкость мышления и умение быстро адаптироваться к новым технологиям.
-
+- JavaScript 
 ---
 
 ## ⚙️ Tech Overview
