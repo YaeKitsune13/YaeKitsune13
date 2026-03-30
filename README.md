@@ -1,27 +1,29 @@
 <div align="center">
 
-<!-- ГЛАВНЫЙ ЗАГОЛОВОК (Typing SVG) -->
+<!-- ГЛАВНЫЙ ЗАГОЛОВОК -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=A65EBA&center=true&vCenter=true&width=1000&lines=YaeKitsune;%F0%9F%8C%B8+Divine+Kitsune+Profile;%E2%9A%A1+Right+here%2C+right+now%2C+emerge!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=A65EBA&center=true&vCenter=true&width=1000&lines=YaeKitsune;%F0%9F%8C%B8+Divine+Kitsune+Profile;%E2%9A%A1+Right+here%2C+right+now...;%F0%9F%A6%8A+Building+with+Soul" alt="Main Header" />
 </p>
 
-### ⚡ "Right here, right now, emerge!" ⚡
-*(Прямо здесь, прямо сейчас, явись!)*
+### ⚡ "Show me what you've got!" ⚡
+*(Покажи мне, на что ты способен!)*
 
 ---
 
-<!-- КАРТОЧКА "ОБО МНЕ" С ИМИТАЦИЕЙ ГРАДИЕНТНОЙ ДОСКИ -->
+<!-- КАРТОЧКА "ОБО МНЕ" -->
 <table width="100%">
   <tr>
-    <td bgcolor="#1a1b27" style="border: 2px solid #a65eba; border-radius: 15px;">
-      <h3 align="center">🌸 About Me / Обо мне 🌸</h3>
+    <td bgcolor="#1a1b27" style="border: 2px solid #a65eba; border-radius: 15px; padding: 20px;">
       <p align="center">
-        Инженер, фокусируюсь на <b>системном программировании</b>, надёжной архитектуре и современном фронтенде.<br>
-        Специализируюсь на создании высокопроизводительных сервисов с душой и чистым кодом.
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&color=FF91AF&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B8+About+Me;%F0%9F%8C%B8+%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5" alt="About Header" />
       </p>
       <p align="center">
-        <i>Engineer focusing on <b>systems programming</b>, reliable architecture, and modern frontend.<br>
-        Specializing in high-performance services with soul and clean code.</i>
+        Разработчик, увлеченный <b>системным программированием</b> и созданием надежных инструментов.<br>
+        Верю в чистую архитектуру и постоянно учусь новому.
+      </p>
+      <p align="center">
+        <i>Developer passionate about <b>systems programming</b> and building reliable tools.<br>
+        Believing in clean architecture and constantly learning.</i>
       </p>
       <p align="center">
         🔮 <b>Main Wisdom:</b> Go • Rust • Vue • TypeScript
@@ -32,9 +34,9 @@
 
 ---
 
-<!-- СЕКЦИЯ СТЕКА С ГРАДИЕНТНЫМИ БЕЙДЖАМИ -->
+<!-- СЕКЦИЯ СТЕКА -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&color=FF91AF&center=true&vCenter=true&width=500&lines=%F0%9F%94%AE+Divine+Kitsune+Stack" alt="Stack Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=A65EBA&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Sanctuary+Toolkit;%E2%9A%A1+%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9;%F0%9F%94%AE+Go+%E2%80%A2+Rust+%E2%80%A2+Vue+%E2%80%A2+TS" alt="Stack Header" />
 </p>
 
 <p align="center">
@@ -45,31 +47,32 @@
 </p>
 
 <details>
-<summary align="center"><b>📜 Open the Sacred Scroll / Открыть священный свиток</b></summary>
+<summary align="center"><b>📜 Familiar Technologies / Знаком с технологиями</b></summary>
 <br>
 <div align="center">
 
-| Sphere / Сфера | Tools / Инструменты |
+| Сфера / Sphere | Технологии / Technologies |
 | :--- | :--- |
-| **Backend** | `Go`, `Rust`, `Kotlin`, `Java`, `Python`, `C#` |
-| **Frontend** | `Vue 3`, `TypeScript`, `JavaScript` |
-| **Scripting** | `Luau`, `Bash`, `SQL` |
-| **Patterns** | `Clean Arch`, `DDD`, `Repository`, `SOLID` |
+| **Languages** | `Kotlin`, `Java`, `Python`, `C#`, `Luau`, `JS` |
+| **Tools** | `Git`, `Docker`, `SQL`, `Bash` |
+| **Focus** | `Backend Development`, `CLI Tools`, `Clean Arch` |
 
 </div>
 </details>
 
 ---
 
-<!-- СЕКЦИЯ СТАТИСТИКИ -->
+<!-- СЕКЦИЯ СТАТИСТИКИ (Используем зеркало deno.dev) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&color=A65EBA&center=true&vCenter=true&width=600&lines=%F0%9F%8F%B0+Grand+Narukami+Stats" alt="Stats Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=FF91AF&center=true&vCenter=true&width=800&lines=%F0%9F%8F%B0+Grand+Activity;%F0%9F%8F%B0+%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B1%D1%82%D1%8C+%D0%BD%D0%B0+%D0%93%D0%B8%D1%82%D1%85%D0%B0%D0%B1%D0%B5" alt="Activity Header" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaeKitsune13&show_icons=true&theme=radical&title_color=ff91af&icon_color=a65eba&text_color=e0b0ff&bg_color=1a1b27&hide_border=true" alt="GitHub Stats" />
+  <!-- Зеркало 1 (Deno) -->
+  <img src="https://github-readme-stats.deno.dev/api?username=YaeKitsune13&show_icons=true&theme=radical&title_color=ff91af&icon_color=a65eba&text_color=e0b0ff&bg_color=1a1b27&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact&theme=radical&title_color=ff91af&icon_color=a65eba&text_color=e0b0ff&bg_color=1a1b27&hide_border=true" alt="Top Langs" />
+  <!-- Зеркало 2 (Deno) -->
+  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=YaeKitsune13&layout=compact&theme=radical&title_color=ff91af&icon_color=a65eba&text_color=e0b0ff&bg_color=1a1b27&hide_border=true" alt="Top Langs" />
 </div>
 
 <br>
@@ -82,31 +85,25 @@
 
 <!-- ДОСТИЖЕНИЯ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&color=FF91AF&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+Sanctuary+Achievements" alt="Achievements Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=A65EBA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+Blessings+%26+Achievements;%F0%9F%8F%86+%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B0" alt="Awards Header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YaeKitsune13&style=flat-square&color=a65eba&label=Blessings+Received" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YaeKitsune13&style=flat-square&color=a65eba&label=Profile+Visits" alt="Profile Views" />
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=YaeKitsune13&theme=radical&margin-w=5&margin-h=5&column=4&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
-<!-- ФИНАЛЬНАЯ ЦИТАТА И ФУТЕР -->
+<!-- ФИНАЛЬНЫЙ БЛОК -->
 <p align="center">
   <i>"Nothing lasts forever... but a well-written code comes close."</i><br>
   <b>"Ничто не вечно... но хорошо написанный код почти вечен."</b>
 </p>
 
 <p align="center">
-  <i>"In your dreams!"</i> / <b>"В твоих мечтах!"</b>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=A65EBA&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting+the+Sanctuary!+%E2%9C%A8;%E2%9C%A8+%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE+%D0%B7%D0%B0+%D0%B2%D0%B8%D0%B7%D0%B8%D1%82+%D0%B2+%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5!+%E2%9C%A8" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=A65EBA&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Keep+improving.+Keep+coding.;%E2%9C%A8+%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B0%D0%B9%D1%81%D1%8F.+%D0%9F%D0%B8%D1%88%D0%B8+%D0%BA%D0%BE%D0%B4.;%F0%9F%8C%B8+See+you+again!+%F0%9F%8C%B8;%F0%9F%A6%8A+In+your+dreams!+%F0%9F%A6%8A" alt="Footer Typing" />
 </p>
 
 <p align="center">
