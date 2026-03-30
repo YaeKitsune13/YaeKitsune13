@@ -1,14 +1,48 @@
-![YaeKitsune typing](yae-typing.gif)
+# 🦊 YaeKitsune — Developer Profile
+
+<p align="center">
+  <img src="yae-typing.gif" width="260" alt="YaeKitsune typing" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 Основной стек
+
+**Go • Rust • Vue**
+
+---
+
+## 🧠 Другие языки, с которыми работал
+
+- Kotlin  
+- Java  
+- Python  
+- C#  
+- Luau (Roblox Studio)  
+- TypeScript  
+- JavaScript  
+
+> Широкий опыт даёт гибкость мышления и умение быстро адаптироваться к новым технологиям.
+
+---
+
+## ⚙️ Tech Overview
+
+- 🏗 **Backend:** Go, Rust, Kotlin, Java, Python, C#  
+- 🎨 **Frontend:** Vue, TypeScript  
+- 🧩 **Game/Script:** Luau (Roblox Studio)  
+- 🧱 **Архитектура:** многослойные сервисы, чистая архитектура, API‑дизайн  
+- 🚀 **Интересы:** системное программирование, высоконагруженные сервисы, UI‑фреймворки  
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaeKitsune13&layout=compact&theme=github_dark)
 
 ---
 
-### 🕒 Streak & Activity
+## 🕒 Streak & Activity
 
 <p align="center">
   <img
@@ -26,7 +60,7 @@
 
 ---
 
-### 🎯 Fun Stuff
+## 🏆 Achievements & Fun
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YaeKitsune13&style=flat&color=blue)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=YaeKitsune13&theme=radical&margin-w=5&margin-h=5&column=4)
