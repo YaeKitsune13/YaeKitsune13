@@ -2,8 +2,6 @@
 
 # 🌸 YaeKitsune — Developer Profile 🌸
 
-<img src="https://raw.githubusercontent.com/YaeKitsune13/MyRoadMap/main/roadmap.gif" width="600" alt="Roadmap Animation" />
-
 <p align="center">
   <img src="yae-typing.gif" width="280" alt="YaeKitsune typing" />
 </p>
