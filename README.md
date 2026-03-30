@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=A65EBA&center=true&vCenter=true&width=1000&lines=YaeKitsune;%F0%9F%8C%B8+Divine+Kitsune+Profile;%E2%9A%A1+Right+here%2C+right+now%2C+emerge!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="yae-typing.gif" width="320" alt="YaeKitsune typing" />
-</p>
-
 ### ⚡ "Right here, right now, emerge!" ⚡
 *(Прямо здесь, прямо сейчас, явись!)*
 
